@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dje:home|Door43 (dje)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dje|d43-dje repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dje/archive/master.zip|d43-dje.zip]]
+
+**Recent Changes**
+{{changes>ns = dje}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dje|Ethnologue data]]
+
